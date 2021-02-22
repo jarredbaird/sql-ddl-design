@@ -1,5 +1,6 @@
 -- from the terminal run:
 -- psql < air_traffic.sql
+-- bogus comment
 
 DROP DATABASE IF EXISTS air_traffic;
 
